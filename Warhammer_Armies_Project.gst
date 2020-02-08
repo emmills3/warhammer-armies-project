@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="9e23-79cb-afed-cf4c" name="Warhammer Armies ProjectX" revision="4" battleScribeVersion="2.03" authorName="L3610N 115" authorContact="Contact me on the Warhammer Armies Project Discord (1st link) or on the BSData Developers Discord (2nd link)" authorUrl="https://discordapp.com/invite/AaNyj9s|https://discordapp.com/invite/UrrPB3T" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="9e23-79cb-afed-cf4c" name="Warhammer Armies ProjectX" revision="6" battleScribeVersion="2.03" authorName="L3610N 115" authorContact="Contact me on the Warhammer Armies Project Discord (1st link) or on the BSData Developers Discord (2nd link)" authorUrl="https://discordapp.com/invite/AaNyj9s|https://discordapp.com/invite/UrrPB3T" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="9e23-79cb-pubN66727" name="Rulebook v.1.7"/>
     <publication id="9e23-79cb-pubN67565" name="Albion v.1.21"/>
@@ -2738,7 +2738,8 @@ If a model has both an armour save and a Ward save, the model takes its armour s
     <rule id="3b46-c6e4-f0af-cef8" name="Loremaster (Lore of Necromancy)" publicationId="9e23-79cb-pubN66727" page="74" hidden="false">
       <description>A Loremaster knows all the spells from their chosen lore, they are not limited by their Wizard level. The lore in question is stated in brackets.</description>
     </rule>
-    <rule id="a001-2c00-3971-2a29" name="Hatred (Bretonnia)" publicationId="9e23-79cb-pubN66727" page="72" hidden="false">
+    <rule id="a001-2c00-3971-2a29" name="Hatred (
+    )" publicationId="9e23-79cb-pubN66727" page="72" hidden="false">
       <description>A model striking a hated foe in close combat re-rolls all failed To Hit rolls during the first round of combat. The rest of the combat is fought normally. Sometimes a model will only Hate a specific foe. Where this is the case, the type of foe will be expressed in the brackets. In the case an enemy hates a certain faction, they have the Hatred rule against all models from that army book. In addition, they must also re-roll successful rolls to restrain from pursuit against enemies they have Hatred against.</description>
     </rule>
     <rule id="6f3b-cd4f-062d-7f26" name="Regeneration (6+)" publicationId="9e23-79cb-pubN66727" page="77" hidden="false">
